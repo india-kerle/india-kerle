@@ -1,4 +1,4 @@
-### Hi there 👋 I'm interested in data science for public policy, open data, tech policy and word puzzles :flower_playing_cards:  
+### Hi there :cherry_blossom:
 
 <!--
 **india-kerle/india-kerle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
